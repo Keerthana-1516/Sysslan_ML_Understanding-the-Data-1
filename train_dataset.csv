@@ -1,0 +1,24 @@
+Train Name,Start Station,End Station,Distance,Stops
+Rajdhani Express,New Delhi,Mumbai Central,1384.0,6.0
+Rajdhani Express,New Delhi,Mumbai Central,1384.0,6.0
+Shatabdi Express,Chennai Central,Bangalore,358.0,3.0
+Duronto Express,Howrah,Pune,2058.0,8.0
+Garib Rath,Secunderabad,Visakhapatnam,690.0,5.0
+Intercity Express,Mumbai Central,Nashik Road,172.0,2.0
+Jan Shatabdi,Delhi Junction,Agra Cantt,195.0,2.0
+Superfast Express,Pune,Mangalore,,7.0
+Humsafar Express,Patna,Ranchi,407.0,4.0
+Tejas Express,Madurai,Chennai Egmore,561.0,
+Passenger Special,Hyderabad,Kurnool,219.0,6.0
+Vande Bharat Express,Delhi Junction,Varanasi,776.0,4.0
+Express Mail,Kolkata,Dhanbad,259.0,3.0
+Fast Passenger,Jaipur,Ajmer,135.0,5.0
+Double Decker Express,Ahmedabad,Surat,263.0,2.0
+Antyodaya Express,Bangalore,Hubli,470.0,4.0
+Uday Express,Coimbatore,Bangalore,371.0,3.0
+MEMU Train,Lucknow,Kanpur,72.0,4.0
+DEMU Passenger,Chandigarh,Ambala,45.0,3.0
+Superfast Mail,Bhopal,Indore,191.0,2.0
+Holiday Special,Trivandrum,Kochi,204.0,3.0
+Local Passenger,InvalidStation,Kochi,150.0,2.0
+Metro Rapid,,Delhi Central,35.0,1.0
